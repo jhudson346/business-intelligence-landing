@@ -1,0 +1,1 @@
+@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n@layer utilities {\n  .animation-delay-2000 {\n    animation-delay: 2s;\n  }\n  \n  .animation-delay-4000 {\n    animation-delay: 4s;\n  }\n}\n\nhtml {\n  scroll-behavior: smooth;\n}
